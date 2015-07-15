@@ -1,7 +1,7 @@
 {
-  "name": "sc-geolocator",
+  "name": "font-roboto",
   "version": "1.0.0",
-  "description": "Polymer 1.0 element that offers geolocation",
+  "description": "Embedded version of `font-roboto` as a drop-in replacement for the ones as used by native polymer elements",
   "authors": [
     "Safety Changer"
   ],
@@ -9,19 +9,17 @@
     "web-components",
     "web-component",
     "polymer",
-    "geolocation",
-    "geolocator",
-    "location",
-    "gps"
+    "roboto",
+    "font"
   ],
-  "main": "sc-geolocator.html",
+  "main": "roboto.html",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git://github.com/safetychanger/sc-geolocator"
+    "url": "git://github.com/safetychanger/font-roboto"
   },
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/safetychanger/sc-geolocator",
+  "homepage": "https://github.com/safetychanger/font-roboto",
   "dependencies": {
     "geolocator": "latest"
   }
