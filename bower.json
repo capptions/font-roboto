@@ -1,6 +1,6 @@
 {
   "name": "font-roboto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Embedded version of `font-roboto` as a drop-in replacement for the ones as used by native polymer elements",
   "authors": [
     "Safety Changer"
