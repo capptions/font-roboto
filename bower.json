@@ -1,6 +1,6 @@
 {
   "name": "font-roboto",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Embedded version of `font-roboto` as a drop-in replacement for the ones as used by native polymer elements",
   "authors": [
     "Safety Changer"
@@ -20,8 +20,5 @@
     "url": "git://github.com/safetychanger/font-roboto"
   },
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/safetychanger/font-roboto",
-  "dependencies": {
-    "geolocator": "latest"
-  }
+  "homepage": "https://github.com/safetychanger/font-roboto"
 }
